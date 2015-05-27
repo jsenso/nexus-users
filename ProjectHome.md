@@ -1,0 +1,3 @@
+This Drupal module is part of the framework Nexus. Implemented in Scientia, and is used to manage system user searches.  It was created by Sandor Dominguez, Amed Leiva and Jose A. Senso
+
+beta. documentation is coming ...
